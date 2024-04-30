@@ -1,1 +1,1 @@
-Programa de conversão de inteiro aleatório para binário.
+Programa de conversão de inteiro para binário.
